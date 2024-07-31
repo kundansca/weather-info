@@ -4,8 +4,13 @@
 <p>- **City Name Suggestions:** Provides autocomplete suggestions for city names using the OpenWeatherMap API, enhancing user experience.</p>
 <p> **Weather Icons:** Displays relevant weather icons based on the weather condition.</p>
 
-<h2>Technologies Used</h2>h2>
+<h2>Technologies Used</h2>
  <p>**HTML5:** For structuring the web content.</p>
 <p> **CSS3:** For styling and layout.<p/>
 <p>**JavaScript:** For dynamic content and API interactions.</p>
 <p> **OpenWeatherMap API:** Used for fetching weather data and city name suggestions.</p>
+<h3>Getting Started</h3>
+<h4>To run this project locally, follow these steps:</h4>
+<li>Clone the Repository</li>
+<li>Navigate to the Project Directory:bash cd weather-info</li>
+<li>Open `index.html` in Your Browser: </li>
