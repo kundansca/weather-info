@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather info</title>
+    <link rel="stylesheet" type="text/css" href="../css/index.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../css/weather-info-display.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../css/city-suggestions-display.css"
+    />
+  </head>
+  <body>
+    <div id="root">
+      <div class="card">
+        <div class="search">
+          <input
+            type="text"
+            placeholder="enter city name"
+            spellcheck="false"
+            id="cityNameInput"
+          />
+        </div>
+
+        <input
+          type="image"
+          src="../media/images/search.png"
+          id="searchButton"
+        />
+      </div>
+      <div id="cityNameSuggestions">
+        <ul id="cityNameHint"></ul>
+      </div>
+      <div id="weatherDetails">
+        <div id="weatherIconContainer">
+          <img id="weatherIcon" />
+        </div>
+
+        <h2 id="temperature"></h2>
+        <h2 id="cityName"></h2>
+        <div id="weatherStats">
+          <div id="humidityInfo">
+            <img src="../media/images/humidity.png" />
+            <p id="humidityValue"></p>
+          </div>
+          <div id="windInfo">
+            <img src="../media/images/wind.png" />
+            <p id="windValue"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="../javascript/weather-info-display.js"></script>
+    <script src="../javascript/weather-info.js"></script>
+    <script src="../javascript/city-suggestions-display.js"></script>
+    <script src="../javascript/city-suggestions.js"></script>
+  </body>
+</html>

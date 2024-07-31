@@ -1,0 +1,28 @@
+#cityNameSuggestions {
+  border: 2px solid #e2e0e2;
+  border-style: solid none none none;
+  width: 370px;
+  position: absolute;
+  left: 458px;
+  top: 58px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: white;
+  display: none;
+}
+#cityNameHint li {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  font-size: 18px;
+  list-style: none;
+  font-style: italic;
+  text-transform: capitalize;
+}
+#cityNameHint li:hover {
+  background-color: #eaf3ff;
+  color: black;
+  cursor: pointer;
+}

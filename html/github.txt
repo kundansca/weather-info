@@ -1,0 +1,66 @@
+Got it! Since you're using the OpenWeatherMap API for city name suggestions, you can adjust your README to reflect this. Here’s the revised version:
+
+---
+
+# Weather Website
+
+## Overview
+
+The Weather Website is a user-friendly web application that provides real-time weather information, including temperature, humidity, and wind speed, for cities around the world. Built using HTML, CSS, and JavaScript, the application features a dynamic and interactive interface with city name suggestions and up-to-date weather details.
+
+## Features
+
+- **Real-Time Weather Data:** Displays current weather information including temperature, humidity, and wind speed.
+- **City Name Suggestions:** Provides autocomplete suggestions for city names using the OpenWeatherMap API, enhancing user experience.
+- **Weather Icons:** Displays relevant weather icons based on the weather condition.
+
+## Technologies Used
+
+- **HTML5:** For structuring the web content.
+- **CSS3:** For styling and layout.
+- **JavaScript:** For dynamic content and API interactions.
+- **OpenWeatherMap API:** Used for fetching weather data and city name suggestions.
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/weather-website.git
+   ```
+
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd weather-website
+   ```
+
+3. **Open `index.html` in Your Browser:**
+   You can open `index.html` directly in a web browser or use a local server for a more interactive development environment.
+
+## How to Use
+
+1. **Enter a City Name:** Type the name of the city into the search bar. City name suggestions will appear, fetched using the OpenWeatherMap API.
+2. **Select a City:** Click on a city from the suggestions to view the weather details.
+3. **View Weather Information:** The weather details including temperature, humidity, and wind speed will be displayed along with an appropriate weather icon.
+
+## Screenshots
+
+![Screenshot 1](./media/screenshots/screenshot1.png)
+![Screenshot 2](./media/screenshots/screenshot2.png)
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or inquiries, please contact me at [your.email@example.com](mailto:your.email@example.com).
+
+---
+
+This version correctly references the OpenWeatherMap API for city name suggestions and provides a clear description of your project.
