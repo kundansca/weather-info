@@ -18,6 +18,11 @@
 <p>1. **Enter a City Name:** Type the name of the city into the search bar. City name suggestions will appear, fetched using the OpenWeatherMap API.</p>
 <p>2. **Select a City:** Click on a city from the suggestions to view the weather details.</p>
 <p>3. **View Weather Information:** The weather details including temperature, humidity, and wind speed will be displayed along with an appropriate weather icon.</p>
+<h3>Screenshots</h3>
+<img src="../media/screenshots/screenshot1"/>
+<img src="../media/screenshots/screenshot2"/>
+<img src="../media/screenshots/screenshot3"/>
+<img src="../media/screenshots/screenshot4"/>
 <h3>Contributing</h3>
 <p>Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.</p>
 <h2>Contact</h2>
