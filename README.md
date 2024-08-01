@@ -19,6 +19,11 @@
 <p>2. **Select a City:** Click on a city from the suggestions to view the weather details.</p>
 <p>3. **View Weather Information:** The weather details including temperature, humidity, and wind speed will be displayed along with an appropriate weather icon.</p>
 <h3>Screenshots</h3>
+![screenshot1](https://github.com/kundansca/weather-info/blob/master/Screenshot1.png)<br/>
+![screenshot2](https://github.com/kundansca/weather-info/blob/master/Screenshot2.png)<br/>
+![screenshot3](https://github.com/kundansca/weather-info/blob/master/Screenshot3.png)<br/>
+![screenshot4](https://github.com/kundansca/weather-info/blob/master/Screenshot4.png)<br/>
+
 <img src="../media/screenshots/screenshot1"/>
 <img src="../media/screenshots/screenshot2"/>
 <img src="../media/screenshots/screenshot3"/>
