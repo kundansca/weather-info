@@ -6,6 +6,7 @@ function showWeatherDetails(weatherData) {
   const weatherIcon = document.getElementById("weatherIcon");
 
   // Set the weather icon source based on the weather condition
+
   switch (weatherData.weather[0].main.toLowerCase()) {
     case "clouds":
       weatherIcon.src = "../media/images/clouds.png";
@@ -13,6 +14,8 @@ function showWeatherDetails(weatherData) {
     case "clear":
       weatherIcon.src = "../media/images/clear.png";
       break;
+    case "mist":
+      weatherIcon.src = "../media/images/mist.png";
     case "haze":
       weatherIcon.src = "../media/images/mist.png";
       break;
